@@ -19,7 +19,6 @@ Final-year B.Tech IT student at AISSMS IIT, Pune 🇮🇳
 - 🎓 Final-year **B.Tech in Information Technology** at AISSMS Institute of Information Technology, Pune (2023–2027)
 - 🛰️ Interning at **DRDO – ITR, Chandipur** in Electro-Optical Tracking Systems
 - 💼 Previously interned at **Armetech AI** on full-stack IoT and web development
-- 📄 Published a research paper on **blockchain-based crowdfunding** in IJARSCT
 - 🌱 Currently learning **Spring Boot and microservices** by extending my Streamline Recharge project
 - 🎯 Looking for roles where full-stack engineering and applied AI meet
 
