@@ -45,7 +45,7 @@ Final-year B.Tech IT student at AISSMS IIT, Pune 🇮🇳
 | --- | --- | --- |
 | 🍳 **CookSmart** | Recipe-discovery platform. A custom-trained YOLOv8 model detects ingredients from a photo (mAP50 ≈ 0.89 across ~94 classes). | MERN, YOLOv8, Python |
 | 🌾 **Agronomist** | Bilingual (Marathi + English) app that helps farmers diagnose crop diseases using voice input and on-device inference. | Flutter, TensorFlow Lite, Firebase |
-| 📺 [**Streamline Recharge**] | Cable TV subscriber and recharge management app, now being extended with Spring Boot services and CI. | Java, Spring Boot |
+| 📺 **Streamline Recharge** | Cable TV subscriber and recharge management app, now being extended with Spring Boot services and CI. | Java, Spring Boot |
 | ⛓️ **Blockchain Crowdfunding** | Decentralised crowdfunding DApp with smart contracts. Subject of my IJARSCT paper. | Solidity, Hardhat, React |
 
 
